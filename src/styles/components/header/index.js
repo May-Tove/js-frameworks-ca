@@ -23,7 +23,7 @@ export const UnorderedList = styled.ul`
   display: flex;
 `;
 
-export const Link = styled.li`
+export const NavLink = styled.li`
   margin: 1rem;
   cursor: pointer;
 `;
