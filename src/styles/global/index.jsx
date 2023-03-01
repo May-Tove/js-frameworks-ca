@@ -14,6 +14,10 @@ const GlobalStyle = createGlobalStyle`
     body {
         background: var(--color-light);
     }
+
+    main{
+        min-height: 100vh;
+    }
 `;
 
 export default GlobalStyle;
